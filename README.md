@@ -1,6 +1,6 @@
 # recreate website M3-CB-CMK
 
-This project is a recreation from the Twitter website. 
+This project is a recreation from the Twitter website.
 
 ### Resources
 For the images inside the mock-data.json I used Adobe Stock. Url: stock.adobe.com 
